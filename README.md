@@ -1,4 +1,12 @@
-### Hi there 👋
+### My name is Michael Guidera
+
+I'm a full stack software developer who wants to see people's lives made better through applications that are useful and can bring a smile. Ideally both.
+
+Here are some of my projects:
+
+Shinano https://github.com/TheSicilian12/capstone
+
+Query https://github.com/TheSicilian12/Query
 
 <!--
 **TheSicilian12/TheSicilian12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
