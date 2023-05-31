@@ -1,6 +1,6 @@
 ### My name is Michael Guidera
 
-I'm a full stack software developer who wants to see people's lives made better through applications that are useful and can bring a smile. Ideally both.
+I'm a full stack software developer who wants to see people's lives improved through practical and fun applications.
 
 Here are some of my projects:
 
