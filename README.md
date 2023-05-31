@@ -4,7 +4,7 @@ I'm a full stack software developer who wants to see people's lives made better 
 
 Here are some of my projects:
 
-Shinano https://github.com/TheSicilian12/capstone
+Shinano <a href="https://github.com/TheSicilian12/capstone">Shinano</a>
 
 Query https://github.com/TheSicilian12/Query
 
