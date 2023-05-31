@@ -3,6 +3,11 @@
   <img src="https://github.com/TheSicilian12/TheSicilian12/assets/116280986/999ad7b7-bab2-4c4e-8dc9-a0047377b1c3" width="100"/>
 </div>
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
+
 I'm a full stack software developer who wants to see people's lives improved through practical and fun applications.
 
 Here are some of my projects:
