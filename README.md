@@ -4,9 +4,8 @@ I'm a full stack software developer who wants to see people's lives made better 
 
 Here are some of my projects:
 
-Shinano <a href="https://github.com/TheSicilian12/capstone" target="_blank">Shinano</a>
-
-Query https://github.com/TheSicilian12/Query
+<a href="https://github.com/TheSicilian12/capstone" target="_blank">Shinano</a>
+<a href="https://github.com/TheSicilian12/Query" target="_blank">Query</a>
 
 <!--
 **TheSicilian12/TheSicilian12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
