@@ -2,6 +2,9 @@
 <img src="https://raw.githubusercontent.com/artkirienko/artkirienko/master/banner-cropped.png"
    />
 </div>
+
+&nbsp;
+
 Hello! I'm a full stack software developer who is working
 to see people's lives improved through practical and fun applications.
 
