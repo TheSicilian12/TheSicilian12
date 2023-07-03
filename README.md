@@ -2,7 +2,7 @@
 I'm a full stack software developer who wants to see people's lives improved through practical and fun applications.
 
 <div align="center">
-<img src="[https://cdn.dribbble.com/users/5690231/screenshots/16191500/media/4fbd0ec22f13a3521bb37cc5fe8b1cb3.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGg3YXN3cmt4eDZjdGg2Ym83ZDVpZTEzbDhjNjVzeG94dmJpdHdjayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif)" 
+<img src="https://cdn.dribbble.com/users/5690231/screenshots/16191500/media/4fbd0ec22f13a3521bb37cc5fe8b1cb3.gif" 
     width="500px"/>
 </div>
 
