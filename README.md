@@ -30,7 +30,8 @@ Here are some of my projects:
 <div align="center">
 
 </div>
-<a href="https://www.linkedin.com/in/guidera-michael/">
+<a href="https://www.linkedin.com/in/guidera-michael/" target="_blank">
+   Contact me at:
 <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" 
       title="LinkedIn" 
       alt="LinkedIn" width="40" height="40"
