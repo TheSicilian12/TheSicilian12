@@ -8,10 +8,10 @@
 <h1 align="center">
 Hello! 
 </h1>
-<div align="center">
+<h4 align="center">
 I'm a full stack software developer who is working
 to see people's lives improved through practical and fun applications.
-</div>
+</h4>
 
 &nbsp;
 
