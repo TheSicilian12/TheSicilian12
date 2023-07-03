@@ -5,10 +5,13 @@ I'm a full stack software developer who wants to see people's lives improved thr
 <img src="https://cdn.dribbble.com/users/5690231/screenshots/16191500/media/4fbd0ec22f13a3521bb37cc5fe8b1cb3.gif" 
     width="500px"/>
 </div>
+<div align="center">
+<img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"
+    width="500px"/>
+</div>
 
 Here are some of my projects:
 
-<a href="https://github.com/TheSicilian12/capstone" target="_blank">Shinano</a> |
 <a href="https://query-tw1m.onrender.com/" target="_blank">Query</a>
 
 <div align="center">
