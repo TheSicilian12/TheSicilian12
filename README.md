@@ -14,7 +14,7 @@ I'm a full stack software developer who wants to see people's lives improved thr
     width="500px"/>
 </div>
 <div align="center">
-<img src="https://media.tenor.com/Ug6cbVA1ZsMAAAAM/developer.gif"
+<img src="https://t4.ftcdn.net/jpg/02/78/37/47/360_F_278374738_ypRn0utOVnebuhmpSrDiwkzFsdqEm0aa.jpg"
     width="500px"/>
 </div>
 
