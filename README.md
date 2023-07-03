@@ -1,6 +1,8 @@
 ### My name is Michael Guidera
 I'm a full stack software developer who wants to see people's lives improved through practical and fun applications.
-<img src="https://cdn.dribbble.com/users/5690231/screenshots/16191500/media/4fbd0ec22f13a3521bb37cc5fe8b1cb3.gif" />
+
+<img src="https://cdn.dribbble.com/users/5690231/screenshots/16191500/media/4fbd0ec22f13a3521bb37cc5fe8b1cb3.gif" width="50px" />
+
 Here are some of my projects:
 
 <a href="https://github.com/TheSicilian12/capstone" target="_blank">Shinano</a> |
