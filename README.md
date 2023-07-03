@@ -34,7 +34,7 @@ Here are some of my projects:
    Contact me at:
 <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" 
       title="LinkedIn" 
-      alt="LinkedIn" width="40" height="40"
+      alt="LinkedIn" width="20" height="20"
    />
 </a>
 <div align="center">
