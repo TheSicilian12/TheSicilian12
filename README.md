@@ -4,7 +4,7 @@ I'm a full stack software developer who wants to see people's lives improved thr
 
 <div align="center">
 <img src="https://t4.ftcdn.net/jpg/02/78/37/47/360_F_278374738_ypRn0utOVnebuhmpSrDiwkzFsdqEm0aa.jpg"
-    height="500px"
+    height="400px"
     width="1000px"/>
 </div>
 <div align="center">
