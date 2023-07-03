@@ -5,8 +5,10 @@
 
 &nbsp;
 
+<div align="center">
 Hello! I'm a full stack software developer who is working
 to see people's lives improved through practical and fun applications.
+</div>
 
 &nbsp;
 
