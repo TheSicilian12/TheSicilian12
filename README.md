@@ -1,10 +1,10 @@
-### My name is Michael Guidera
-I'm a full stack software developer who wants to see people's lives improved through practical and fun applications.
-
 <div align="center">
 <img src="https://raw.githubusercontent.com/artkirienko/artkirienko/master/banner-cropped.png"
    />
 </div>
+Hello! I'm a full stack software developer who is determined
+to see people's lives improved through practical and fun applications.
+
 
 
 
