@@ -13,6 +13,11 @@ I'm a full stack software developer who wants to see people's lives improved thr
 <img src="https://www.thereactivedeveloper.com/assets/hero-me-dark.gif"
     width="500px"/>
 </div>
+<div align="center">
+<img src="https://media.tenor.com/Ug6cbVA1ZsMAAAAM/developer.gif"
+    width="500px"/>
+</div>
+
 
 
 Here are some of my projects:
