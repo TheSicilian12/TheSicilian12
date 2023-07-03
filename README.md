@@ -9,7 +9,7 @@ I'm a full stack software developer who wants to see people's lives improved thr
 Here are some of my projects:
 
 <a href="https://github.com/TheSicilian12/capstone" target="_blank">Shinano</a> |
-<a href="https://query-bhy5.onrender.com/" target="_blank">Query</a>
+<a href="https://query-tw1m.onrender.com/" target="_blank">Query</a>
 
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;&nbsp;
