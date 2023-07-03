@@ -12,6 +12,7 @@ I'm a full stack software developer who wants to see people's lives improved thr
 
 Here are some of my projects:
 
+<a href="https://shinano.onrender.com/" target="_blank">Shinano</a>
 <a href="https://query-tw1m.onrender.com/" target="_blank">Query</a>
 
 <div align="center">
