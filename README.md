@@ -1,7 +1,5 @@
 <div align="center">
 <img src="https://raw.githubusercontent.com/artkirienko/artkirienko/master/banner-cropped.png"
-   height="200px"
-   width="800px"
    />
 </div>
 
