@@ -1,6 +1,6 @@
 <div align="center">
 <img src="https://raw.githubusercontent.com/artkirienko/artkirienko/master/banner-cropped.png"
-   height="400px"
+   height="200px"
    />
 </div>
 
