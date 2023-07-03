@@ -3,7 +3,7 @@ I'm a full stack software developer who wants to see people's lives improved thr
 
 <img src="https://cdn.dribbble.com/users/5690231/screenshots/16191500/media/4fbd0ec22f13a3521bb37cc5fe8b1cb3.gif" 
     width="500px"
-    align="center />
+    align="center" />
 
 Here are some of my projects:
 
