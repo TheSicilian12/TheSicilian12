@@ -5,8 +5,11 @@
 
 &nbsp;
 
+<h1 align="center">
+Hello! 
+</h1>
 <div align="center">
-Hello! I'm a full stack software developer who is working
+I'm a full stack software developer who is working
 to see people's lives improved through practical and fun applications.
 </div>
 
