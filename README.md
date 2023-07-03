@@ -2,17 +2,17 @@
 <img src="https://raw.githubusercontent.com/artkirienko/artkirienko/master/banner-cropped.png"
    />
 </div>
-Hello! I'm a full stack software developer who is determined
+Hello! I'm a full stack software developer who is working
 to see people's lives improved through practical and fun applications.
 
 
 
 
 Here are some of my projects:
-
+<div align="center">
 <a href="https://shinano.onrender.com/" target="_blank">Shinano</a> |
 <a href="https://query-tw1m.onrender.com/" target="_blank">Query</a>
-
+</div>div>
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/>&nbsp;
