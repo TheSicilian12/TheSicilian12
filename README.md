@@ -7,13 +7,15 @@ to see people's lives improved through practical and fun applications.
 
 
 
-
+<div align="center">
 Here are some of my projects:
+</div>
 <div align="center">
 <a href="https://shinano.onrender.com/" target="_blank">Shinano</a> |
 <a href="https://query-tw1m.onrender.com/" target="_blank">Query</a> |
 <a href="https://michael-auth-me.onrender.com/" target="_blank">AdventureUp</a>
-</div>div>
+</div>
+
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/>&nbsp;
