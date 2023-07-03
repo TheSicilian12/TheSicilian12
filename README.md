@@ -17,6 +17,10 @@ I'm a full stack software developer who wants to see people's lives improved thr
 <img src="https://t4.ftcdn.net/jpg/02/78/37/47/360_F_278374738_ypRn0utOVnebuhmpSrDiwkzFsdqEm0aa.jpg"
     width="500px"/>
 </div>
+<div align="center">
+<img src="https://raw.githubusercontent.com/artkirienko/artkirienko/master/banner-cropped.png"
+    width="500px"/>
+</div>
 
 
 
