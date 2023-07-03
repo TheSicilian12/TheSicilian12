@@ -5,7 +5,7 @@
 Hello! I'm a full stack software developer who is working
 to see people's lives improved through practical and fun applications.
 
-<pre>Test</pre>
+&nbsp;
 
 <div align="center">
 Here are some of my projects:
