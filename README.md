@@ -1,18 +1,7 @@
 ### My name is Michael Guidera
 I'm a full stack software developer who wants to see people's lives improved through practical and fun applications.
 
-<div align="center">
-<img src="https://cdn.dribbble.com/users/5690231/screenshots/16191500/media/4fbd0ec22f13a3521bb37cc5fe8b1cb3.gif" 
-    width="500px"/>
-</div>
-<div align="center">
-<img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"
-    width="500px"/>
-</div>
-<div align="center">
-<img src="https://www.thereactivedeveloper.com/assets/hero-me-dark.gif"
-    width="500px"/>
-</div>
+
 <div align="center">
 <img src="https://t4.ftcdn.net/jpg/02/78/37/47/360_F_278374738_ypRn0utOVnebuhmpSrDiwkzFsdqEm0aa.jpg"
     height="300px"
