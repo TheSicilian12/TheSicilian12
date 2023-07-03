@@ -28,6 +28,17 @@ Here are some of my projects:
 &nbsp;
 
 <div align="center">
+
+</div>
+<img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" 
+      title="LinkedIn" 
+      alt="LinkedIn" width="40" height="40"
+      href="https://www.linkedin.com/in/guidera-michael/"
+   />
+<div align="center">
+   
+   &nbsp;
+   
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
