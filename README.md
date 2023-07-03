@@ -10,7 +10,7 @@ I'm a full stack software developer who wants to see people's lives improved thr
     width="500px"/>
 </div>
 <div align="center">
-<img src="https://media.tenor.com/CeDk6XdCgOUAAAAj/develop-web.gif"
+<img src="https://www.thereactivedeveloper.com/assets/hero-me-dark.gif"
     width="500px"/>
 </div>
 
